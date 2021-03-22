@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a789f9b.chunk.css",
+    "main.js": "/static/js/main.ffa4c12d.chunk.js",
+    "main.js.map": "/static/js/main.ffa4c12d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd172d0f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd172d0f.js.map",
+    "static/js/2.8434af3e.chunk.js": "/static/js/2.8434af3e.chunk.js",
+    "static/js/2.8434af3e.chunk.js.map": "/static/js/2.8434af3e.chunk.js.map",
+    "static/js/3.f39fe94f.chunk.js": "/static/js/3.f39fe94f.chunk.js",
+    "static/js/3.f39fe94f.chunk.js.map": "/static/js/3.f39fe94f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0a789f9b.chunk.css.map": "/static/css/main.0a789f9b.chunk.css.map",
+    "static/js/2.8434af3e.chunk.js.LICENSE.txt": "/static/js/2.8434af3e.chunk.js.LICENSE.txt",
+    "static/media/BeatShareLogo.6385034a.svg": "/static/media/BeatShareLogo.6385034a.svg",
+    "static/media/index.css": "/static/media/Staatliches-Regular.a7f803c1.ttf",
+    "static/media/addpost.b6fd5e74.png": "/static/media/addpost.b6fd5e74.png",
+    "static/media/backBtn.d0d6ded8.svg": "/static/media/backBtn.d0d6ded8.svg",
+    "static/media/camera.d92c22f1.svg": "/static/media/camera.d92c22f1.svg",
+    "static/media/menuBtn.2109acd2.svg": "/static/media/menuBtn.2109acd2.svg",
+    "static/media/menuExit.f022cb79.svg": "/static/media/menuExit.f022cb79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd172d0f.js",
+    "static/js/2.8434af3e.chunk.js",
+    "static/css/main.0a789f9b.chunk.css",
+    "static/js/main.ffa4c12d.chunk.js"
+  ]
+}
